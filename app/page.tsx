@@ -60,6 +60,7 @@ export default function Home() {
               </Button>
               <Button asChild size="lg" variant="secondary">
                 <Link href="/gallery">
+                  {/* eslint-disable-next-line jsx-a11y/alt-text */}
                   <Image className="mr-2 h-4 w-4" /> Image Gallery
                 </Link>
               </Button>
