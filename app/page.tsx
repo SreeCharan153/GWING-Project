@@ -22,7 +22,7 @@ export default function Home() {
               </Link>
             </Button>
             <Button asChild variant="outline" size="lg">
-              <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/SreeCharan153/GWING-Project" target="_blank" rel="noopener noreferrer">
                 <Github className="mr-2 h-4 w-4" /> View on GitHub
               </Link>
             </Button>
